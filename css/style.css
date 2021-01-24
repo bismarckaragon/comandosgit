@@ -8,27 +8,52 @@ html{
     font-size: 62.5%;
 }
 
+body{
+    text-align: center;
+}
+
 
 .cabeza{
     background-color: burlywood;
     height: 10vh;
 }
 
+.cabeza input{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10rem;
+
+}
+
 .contenedor{
     height: 85vh;
     display: flex;
+    align-items: center;
 }
 
+.container{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 
 .comandos{
     background-color: darkcyan;
     width: 30vw;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 
 }
 
 .descripcion{
     background-color: darkgoldenrod;
     width: 70vw;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 }
 
 
