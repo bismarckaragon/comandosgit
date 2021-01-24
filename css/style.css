@@ -31,28 +31,19 @@ body{
     align-items: center;
 }
 
-.container{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
+
 
 .comandos{
     background-color: darkcyan;
     width: 30vw;
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+  
 }
 
-}
 
 .descripcion{
     background-color: darkgoldenrod;
     width: 70vw;
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+
 }
 }
 
